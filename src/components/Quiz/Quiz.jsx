@@ -13,6 +13,8 @@ const Quiz = () => {
                 <li>Ethereum</li>
                 <li>cUSD</li>
             </ul>
+            <button>Next</button>
+            <div className='index'>1 of 5 questions</div>
         </div>
     )
 }
