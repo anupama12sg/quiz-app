@@ -6,7 +6,7 @@ const Quiz = () => {
         <div className='container'>
             <h1>Quiz App</h1>
             <hr />
-            <h2>Which is a NOT a cryptocurrency?</h2>
+            <h2>1. Which is a NOT a cryptocurrency?</h2>
             <ul>
                 <li>Bitcoin</li>
                 <li>Blockchain</li>
