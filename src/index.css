@@ -6,4 +6,8 @@
 body {
     background-image: linear-gradient(rgb(235, 203, 208), rgb(234, 129, 234));
     font-family: 'poppins';
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
 }
