@@ -49,12 +49,12 @@
     font-size: 18px;
 }
 
-.correct {
+.container.correct {
     background: #dffff2;
-    background-color: #00d397;
+    border-color: #00d397;
 }
 
-.wrong {
+.container .wrong {
     background: #ffebeb;
-    background-color: #ff4a4a;
+    border-color: #ff4a4a;
 }
